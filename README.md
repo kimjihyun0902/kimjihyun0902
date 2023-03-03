@@ -33,7 +33,7 @@
   <h3 align="center">🌈 Follow Me </h3>
   <br>
 <p align="center">
-  <a href="https://velog.io/@jjyun9292/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://velog.io/@jjyun9292/"/></a>&nbsp
+  <a href="https://velog.io/@jjyun9292/"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@jjyun9292/"/></a>&nbsp
   <a href="mailto:gksquf73677@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gksquf73677@gmail.com"/></a>
 </p>
   
